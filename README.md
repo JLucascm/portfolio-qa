@@ -24,5 +24,5 @@ Tenho grande interesse em: Desenvolvimento de Sistemas, Full Stack, com interess
 
 ---
 
-📥 [Clique aqui para acessar o PDF do portfólio]([./portfolio_testes_Lucas_Custodio_v2.pdf](https://github.com/JLucascm/portfolio-qa/blob/Projetos-pessoais/portfolio_testes_Lucas_Custodio_v2.pdf))
+📥 [Clique aqui para acessar o PDF do portfólio](https://github.com/JLucascm/portfolio-qa/blob/Projetos-pessoais/portfolio_testes_Lucas_Custodio_v2.pdf)
 
